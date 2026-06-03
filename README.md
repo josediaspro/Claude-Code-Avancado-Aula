@@ -60,3 +60,5 @@ Cada módulo do curso possui exemplos prontos para rodar diretamente no REPL do 
 ## Licença
 
 MIT © [josediaspro](https://github.com/josediaspro)
+
+<!-- teste de push -->
