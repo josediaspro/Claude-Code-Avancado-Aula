@@ -61,4 +61,4 @@ Cada módulo do curso possui exemplos prontos para rodar diretamente no REPL do 
 
 MIT © [josediaspro](https://github.com/josediaspro)
 
-<!-- teste de push -->
+<!-- teste de push com novo token -->
